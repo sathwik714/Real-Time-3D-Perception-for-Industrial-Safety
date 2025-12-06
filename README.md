@@ -14,6 +14,7 @@ Generating a top-down BEV visualization
 Triggering threat alerts based on proximity
 
 🎯 Key Features
+
 ✅ 1. Real-Time Object Detection (YOLOv8)
 
 Detects workers, helmets, machinery, trucks, and other key industrial objects
